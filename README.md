@@ -2,7 +2,7 @@
 
 An AI assistant that streams answers directly to the G2's micro-LED display. Ask questions by voice, text, or gesture — get concise answers on your glasses in real time.
 
-![HUD Mockup](assets/hud-mockup.png)
+![HUD Mockup](assets/hud-v2.png)
 
 ---
 
@@ -18,7 +18,7 @@ G2 Glasses ──BLE──► Phone ──WSS──► Glint Relay ──WS─�
 
 A **browser companion** provides the same experience on your phone when glasses aren't connected — text input, voice, quick presets, agent switching, and streaming responses.
 
-![Browser Companion](assets/browser-companion.png)
+![Browser Companion](assets/companion-v2.png)
 
 ---
 
