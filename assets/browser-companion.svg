@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="480" viewBox="0 0 400 480">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0a0f"/>
@@ -6,61 +6,44 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="400" height="520" rx="16" fill="url(#bg)"/>
+  <rect width="400" height="480" rx="16" fill="url(#bg)"/>
+  <rect x="20" y="20" width="360" height="440" rx="8" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
 
-  <!-- Card -->
-  <rect x="20" y="20" width="360" height="480" rx="8" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="200" y="56" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="bold" fill="#22d06e">Glint</text>
+  <text x="200" y="74" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">AI HUD for Even Realities G2</text>
 
-  <!-- Header -->
-  <text x="200" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="bold" fill="#22d06e">Glint</text>
-  <text x="200" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">AI HUD for Even Realities G2</text>
+  <rect x="40" y="90" width="320" height="36" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
+  <circle cx="56" cy="108" r="4" fill="#22d06e"/>
+  <text x="68" y="112" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#7a7a90">Ready</text>
 
-  <!-- Status bar -->
-  <rect x="40" y="96" width="320" height="36" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
-  <circle cx="56" cy="114" r="4" fill="#22d06e"/>
-  <text x="68" y="118" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#7a7a90">Ready</text>
+  <rect x="40" y="134" width="320" height="3" rx="1.5" fill="#2a2a3a"/>
 
-  <!-- Thinking bar (inactive) -->
-  <rect x="40" y="140" width="320" height="3" rx="1.5" fill="#2a2a3a"/>
+  <rect x="40" y="144" width="320" height="150" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="56" y="168" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Mar 5 @ 3:15 PM</text>
+  <text x="56" y="188" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">LMC Endocrinologist</text>
+  <text x="56" y="208" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Dr. Anh Tran</text>
+  <text x="56" y="238" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Mar 8 @ 10:00 AM</text>
+  <text x="56" y="258" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dentist - cleaning</text>
+  <text x="56" y="278" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dr. Park</text>
 
-  <!-- Response area -->
-  <rect x="40" y="150" width="320" height="160" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="56" y="174" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Mar 5 @ 3:15 PM</text>
-  <text x="56" y="194" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">LMC Endocrinologist</text>
-  <text x="56" y="214" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Dr. Anh Tran</text>
-  <text x="56" y="244" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Mar 8 @ 10:00 AM</text>
-  <text x="56" y="264" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dentist - cleaning</text>
-  <text x="56" y="284" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dr. Park (Yonge &amp; Eglinton)</text>
+  <rect x="40" y="306" width="226" height="38" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="54" y="329" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Ask something...</text>
 
-  <!-- Input row -->
-  <rect x="40" y="322" width="226" height="38" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="54" y="345" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Ask something...</text>
+  <rect x="274" y="306" width="38" height="38" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="285" y="330" font-size="16">&#x1F3A4;</text>
 
-  <!-- Mic button -->
-  <rect x="274" y="322" width="38" height="38" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="293" y="346" text-anchor="middle" font-size="16"><¤</text>
+  <rect x="320" y="306" width="40" height="38" rx="6" fill="#22d06e"/>
+  <text x="340" y="330" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#0a0a0f">Send</text>
 
-  <!-- Send button -->
-  <rect x="320" y="322" width="40" height="38" rx="6" fill="#22d06e"/>
-  <text x="340" y="346" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#0a0a0f">Send</text>
+  <rect x="40" y="356" width="140" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="54" y="378" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#e0e0e8">Quick queries...</text>
 
-  <!-- Bottom row -->
-  <!-- Preset dropdown -->
-  <rect x="40" y="372" width="140" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="54" y="394" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#e0e0e8">Quick queries...</text>
-  <text x="168" y="394" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#7a7a90">¼</text>
+  <rect x="188" y="356" width="88" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="202" y="378" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#22d06e">Glint</text>
 
-  <!-- Agent dropdown -->
-  <rect x="188" y="372" width="88" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="202" y="394" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#22d06e">Glint</text>
-  <text x="264" y="394" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#7a7a90">¼</text>
+  <rect x="284" y="356" width="76" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="322" y="378" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#e0e0e8">Reconnect</text>
 
-  <!-- Reconnect button -->
-  <rect x="284" y="372" width="76" height="36" rx="6" fill="#14141f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="322" y="394" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#e0e0e8">Reconnect</text>
-
-  <!-- Caption -->
-  <text x="200" y="440" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">Browser companion  phone or desktop</text>
-  <text x="200" y="456" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">Works without glasses connected</text>
+  <text x="200" y="418" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">Browser companion - phone or desktop</text>
+  <text x="200" y="434" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#7a7a90">Works without glasses connected</text>
 </svg>
