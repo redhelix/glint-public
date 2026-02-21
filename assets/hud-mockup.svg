@@ -8,9 +8,9 @@
 
   <line x1="20" y1="40" x2="556" y2="40" stroke="#1a3a1a" stroke-width="0.5"/>
 
-  <text x="32" y="68" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">Mar 5 @ 3:15 PM</text>
-  <text x="32" y="92" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">LMC Endocrinologist</text>
-  <text x="32" y="116" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">Dr. Anh Tran</text>
+  <text x="32" y="68" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">Today @ 3:15 PM</text>
+  <text x="32" y="92" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">Team standup</text>
+  <text x="32" y="116" font-family="SF Mono, Menlo, monospace" font-size="15" fill="#c0e8c0">Zoom - eng channel</text>
 
   <line x1="20" y1="160" x2="556" y2="160" stroke="#1a3a1a" stroke-width="0.5"/>
 

@@ -19,12 +19,12 @@
   <rect x="40" y="134" width="320" height="3" rx="1.5" fill="#2a2a3a"/>
 
   <rect x="40" y="144" width="320" height="150" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
-  <text x="56" y="168" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Mar 5 @ 3:15 PM</text>
-  <text x="56" y="188" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">LMC Endocrinologist</text>
-  <text x="56" y="208" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Dr. Anh Tran</text>
-  <text x="56" y="238" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Mar 8 @ 10:00 AM</text>
-  <text x="56" y="258" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dentist - cleaning</text>
-  <text x="56" y="278" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Dr. Park</text>
+  <text x="56" y="168" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Today @ 3:15 PM</text>
+  <text x="56" y="188" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Team standup</text>
+  <text x="56" y="208" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#e0e0e8">Zoom - eng channel</text>
+  <text x="56" y="238" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Tomorrow @ 10:00 AM</text>
+  <text x="56" y="258" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Design review</text>
+  <text x="56" y="278" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Conference room B</text>
 
   <rect x="40" y="306" width="226" height="38" rx="6" fill="#0a0a0f" stroke="#2a2a3a" stroke-width="1"/>
   <text x="54" y="329" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#7a7a90">Ask something...</text>
