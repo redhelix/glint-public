@@ -1,6 +1,6 @@
-# Glint — AI HUD for Even Realities G2
+# Glint — OpenClaw AI HUD for Even Realities G2
 
-An AI assistant that streams answers directly to the G2's micro-LED display. Ask questions by voice, text, or gesture — get concise answers on your glasses in real time.
+An AI assistant powered by OpenClaw that streams answers directly to the G2's micro-LED display. Ask questions by voice, text, or gesture — get concise answers on your glasses in real time.
 
 ![HUD Mockup](assets/hud-v2.png)
 
